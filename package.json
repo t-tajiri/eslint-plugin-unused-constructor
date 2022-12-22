@@ -1,0 +1,4 @@
+{
+  "name": "eslint-plugin-unused-constructor",
+  "packageManager": "yarn@3.3.1"
+}
